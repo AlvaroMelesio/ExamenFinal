@@ -1,0 +1,56 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\activity_main.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\agregar.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\app1.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\datadetail.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\datarow.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\inicio.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\login.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\pag1.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\signup.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\agregar.xml
+Button;obj\Debug\90\res\layout\app1.xml
+Button;obj\Debug\90\res\layout\login.xml
+Button;obj\Debug\90\res\layout\pag1.xml
+Button;obj\Debug\90\res\layout\signup.xml
+cache-path;D:\601\Programacion\Visual Studio\ExamenFinal\AzureListaClientes\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+com.google.android.gms.maps.MapView;obj\Debug\90\res\layout\datadetail.xml
+EditText;obj\Debug\90\res\layout\agregar.xml
+EditText;obj\Debug\90\res\layout\login.xml
+EditText;obj\Debug\90\res\layout\pag1.xml
+EditText;obj\Debug\90\res\layout\signup.xml
+external-cache-path;D:\601\Programacion\Visual Studio\ExamenFinal\AzureListaClientes\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\601\Programacion\Visual Studio\ExamenFinal\AzureListaClientes\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\90\res\drawable\gradiente.xml
+ImageView;obj\Debug\90\res\layout\agregar.xml
+ImageView;obj\Debug\90\res\layout\app1.xml
+ImageView;obj\Debug\90\res\layout\datadetail.xml
+ImageView;obj\Debug\90\res\layout\datarow.xml
+ImageView;obj\Debug\90\res\layout\inicio.xml
+ImageView;obj\Debug\90\res\layout\login.xml
+ImageView;obj\Debug\90\res\layout\pag1.xml
+item;obj\Debug\90\res\values\styles.xml
+ListView;obj\Debug\90\res\layout\activity_main.xml
+paths;D:\601\Programacion\Visual Studio\ExamenFinal\AzureListaClientes\obj\Debug\90\lp\46\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+shape;obj\Debug\90\res\drawable\gradiente.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_main.xml
+TextView;obj\Debug\90\res\layout\agregar.xml
+TextView;obj\Debug\90\res\layout\app1.xml
+TextView;obj\Debug\90\res\layout\datadetail.xml
+TextView;obj\Debug\90\res\layout\datarow.xml
+TextView;obj\Debug\90\res\layout\login.xml
+TextView;obj\Debug\90\res\layout\pag1.xml
+TextView;obj\Debug\90\res\layout\signup.xml
